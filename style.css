@@ -1,0 +1,79 @@
+body {
+  margin: 0px;
+}
+.header {
+  box-sizing: border-box;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vb;
+  background-image: url(/img/cubik1.jpg);
+}
+.nav {
+  padding-top: 16px;
+  position: fixed;
+}
+.nav-link {
+  text-decoration: none;
+  color: pink;
+  font-size: 24px;
+  padding: 16px 32px;
+}
+.nav-div-link {
+  width: 100%;
+}
+.header-hero-text {
+  margin-top: 0px;
+  padding-top: 284px;
+  padding-right: 64px;
+  display: flex;
+  justify-content: right;
+}
+.header-hero-text-h1 {
+  /* width: 100px;
+  margin-top: 0px;
+  padding-top: 284px;
+  padding-right: 64px; */
+}
+.header-hero-text-button {
+  width: 500px;
+  font-size: 32px;
+  background-color: pink;
+}
+.header-hero-text2 {
+  padding-top: 32px;
+  padding-right: 64px;
+  display: flex;
+  justify-content: right;
+}
+.main {
+  background-color: pink;
+}
+.main-div {
+  display: flex;
+}
+.main-title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 52px;
+  padding-left: 32px;
+  padding-top: 64px;
+}
+.main-text {
+  width: 700px;
+  font-size: 24px;
+  padding-top: 64px;
+}
+.main-title {
+}
+.img {
+  height: 400px;
+  width: 250px;
+}
+.photo_gallery {
+  display: flex;
+  justify-content: space-between;
+}
+.video_clatch {
+  display: flex;
+}
